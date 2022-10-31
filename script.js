@@ -23,6 +23,7 @@
     },
     
 
+
     _setPos: function (pos) {
       proto_setPos.call(this, pos);
       this._applyRotation();
